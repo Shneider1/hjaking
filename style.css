@@ -55,7 +55,7 @@ body{
 }
 #service{
 	background: #348ca0d6;
-	width: 150px;
+	width: 165px;
 	height:60px;
 	line-height: 60px;
 	margin-left:auto;
@@ -93,12 +93,12 @@ body{
 	height: 200px;
 	border-radius: 5px;	
 }
-#foober{  \ ene hereggvi shvvv \
+#foober{  \\ ene hereggvi shvvv
 	width: 100%;
 	height:320px;
 	background:#2690c5;
 }
-#footer{      \ene heregtei shvvvv!!!!!!!!\
+#footer{      \\ene heregtei shvvvv!!!!!!!!
 	width:100%;
 	height: 100px;
 	line-height: 30px;
@@ -242,9 +242,3 @@ form{
 	
 	
 }
-
-
-	
-
-
-
